@@ -1,4 +1,5 @@
 import requests
+from sodapy import Socrata
 import pandas as pd
 import streamlit as st
 
